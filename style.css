@@ -9,6 +9,6 @@ body.cold-front{
   animation:winter 10s forwards;
 }
 a{
-  border:solid;
+  border-style:solid;
   border-size:5px;
 }
