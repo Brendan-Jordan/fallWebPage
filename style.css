@@ -6,5 +6,5 @@ body{
   to{background-color(white)}
 }
 .cold-front{
-  animation-name:winter 20s;
+  animation-name:winter 20s forwards;
 }
