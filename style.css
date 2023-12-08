@@ -18,6 +18,7 @@ nav{
 }
 header{
   color:dark red;
+  line-width:20px;
 }
 h1{
   color:orange;
