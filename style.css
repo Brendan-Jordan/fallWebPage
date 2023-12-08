@@ -1,5 +1,5 @@
 body{
-  background-color:orange;
+  background-color:green;
 }
 @keyframes winter{
   from{background-color(orange)}
@@ -15,4 +15,10 @@ a{
 }
 nav{
   text-align:center;
+}
+header{
+  color:dark red;
+}
+h1{
+  color:orange;
 }
