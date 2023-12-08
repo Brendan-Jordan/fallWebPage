@@ -16,14 +16,13 @@ a{
 nav{
   text-align:center;
 }
-header{
-  color:dark red;
-  font-width:40px;
-}
 h1{
-  color:orange;
+  color:dark red;
 }
 h3{
+  color:orange;
+}
+h5{
   color:aronge;
 }
 img{
