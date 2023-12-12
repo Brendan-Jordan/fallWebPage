@@ -1,13 +1,6 @@
 body{
   background-color:green;
 }
-@keyframes winter{
-  from{background-color(orange)}
-  to{background-color(white)}
-}
-body.cold-front{
-  animation:winter 10s forwards;
-}
 a{
   border-style:solid;
   border-size:5px;
